@@ -61,6 +61,24 @@ A web app for managing health services.
 
 
 
+## Favorite Tools
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1;">
+
+  - **IDE:** Visual Studio Code
+  - **Design:** Figma
+  - **Version Control:** Git & GitHub
+  - **Hosting:** Firebase
+
+  </div>
+  <div style="flex: 1; display: flex; flex-wrap: wrap; justify-content: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,figma,git,firebase" />
+    </a>
+  </div>
+</div>
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkminhaj&show_icons=true&count_private=true&hide=contribs,issues&theme=midnight-purple)
@@ -69,19 +87,10 @@ A web app for managing health services.
 
 
 
-## 🔧 Favorite Tools
-
-- **IDE:** Visual Studio Code
-- **Design:** Figma
-- **Version Control:** Git & GitHub
-- **Hosting:** Netlify, Heroku
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,mongo,express,firebase,js,git" />
-  </a>
-</p>
+
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jkminhaj&theme=midnight-purple&hide_border=true&border_radius=5&card_width=1000)](https://git.io/streak-stats)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jkminhaj/job-client)
