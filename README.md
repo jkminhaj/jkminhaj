@@ -1,6 +1,5 @@
 
 
-# 👋 Hello, I'm MINHAJUL ISLAM
 <img src='./assets/header.png'>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=25&pause=1000&color=7C35CD&center=true&random=false&width=435&lines=I'm+Minhaj;React+Developer;Frontend+Developer;Mern+Stack+DEveloper)](https://git.io/typing-svg)
 
