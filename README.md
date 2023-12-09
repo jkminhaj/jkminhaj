@@ -77,7 +77,11 @@ A web app for managing health services.
 - **Hosting:** Netlify, Heroku
 
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,mongo,express,firebase,js,git" />
+  </a>
+</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jkminhaj&theme=midnight-purple&hide_border=true&border_radius=5&card_width=1000)](https://git.io/streak-stats)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jkminhaj/job-client)
