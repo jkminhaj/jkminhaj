@@ -22,7 +22,7 @@
 
 
 
-## As a React developer, I strive to craft seamless and innovative digital experiences that elevate user interactions. Committed to staying at the forefront of React development, I aim to contribute to the evolution of web applications with efficiency and delight.
+### As a React developer, I strive to craft seamless and innovative digital experiences that elevate user interactions. Committed to staying at the forefront of React development, I aim to contribute to the evolution of web applications with efficiency and delight.
 
 
 
