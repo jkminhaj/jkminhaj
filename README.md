@@ -68,13 +68,6 @@ I am currently exploring [Technology/Topic] to enhance my skill set and stay upd
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jkminhaj/job-client)
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Typing Animation">
-    </a>
-    <br>
-    ![GitHub last commit](https://img.shields.io/github/last-commit/jkminhaj/job-client)
-</div>
 
 
 Feel free to reach out if you have any questions or just want to chat about technology! 😊
