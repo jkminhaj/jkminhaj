@@ -1,8 +1,8 @@
-<!-- Banner Image -->
 
-# Minhajul Islam
 
-I'm a passionate React developer with a flair for creating dynamic and user-friendly web applications.
+# 👋 Hello, I'm MINHAJUL ISLAM
+
+I'm a React enthusiast and MERN stack developer with a passion for crafting delightful user experiences. Welcome to my creative coding space! 🚀
 
 ## 🛠️ Tech Stack
 
@@ -30,9 +30,26 @@ I'm a passionate React developer with a flair for creating dynamic and user-frie
 
 I am currently exploring [Technology/Topic] to enhance my skill set and stay updated with the latest industry trends.
 
+## 📊 Skills Chart
+
+![Skills Chart](https://github.com/jkminhaj/skills-chart/blob/main/skills-chart.png)
+
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkminhaj&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkminhaj&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkminhaj&layout=compact&theme=radical)
+
+## 📊 Weekly Coding Activity
+
+![Weekly Coding Activity](https://github.com/jkminhaj/weekly-coding-activity/blob/main/coding-activity.png)
+
+## 🔧 Favorite Tools
+
+- **IDE:** Visual Studio Code
+- **Design:** Figma
+- **Version Control:** Git & GitHub
+- **Hosting:** Netlify, Heroku
 
 ## 📫 Let's Connect
 
