@@ -2,12 +2,11 @@
 
 <img src='./assets/header.png'>
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=1000&size=37&pause=1000&color=7C35CD&center=true&vCenter=true&random=false&width=435&lines=I'm+Minhaj;React+Developer;Frontend+Developer;Mern+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=37&pause=1000&color=7C35CD&center=true&vCenter=true&random=false&width=435&lines=I'm+Minhaj;React+Developer;Frontend+Developer;Mern+Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
-
 
 
 ## 🛠️ Tech Stack
