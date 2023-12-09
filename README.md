@@ -2,7 +2,9 @@
 
 # 👋 Hello, I'm MINHAJUL ISLAM
 
-I'm a React enthusiast and MERN stack developer with a passion for crafting delightful user experiences. Welcome to my creative coding space! 🚀
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+</div>
 
 ## 🛠️ Tech Stack
 
