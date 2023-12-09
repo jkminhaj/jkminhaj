@@ -26,7 +26,7 @@
 
 
 
-<!-- # Projects
+# Projects
 
 ## Health Service Platform 
 
@@ -74,7 +74,7 @@ A web app for managing health services.
 - **Database Integration:** Connected MongoDB for dynamic product data.
 - **Product Management:**
   - **Add Product:** Easily add new products with the Add Product page.
-  - **Update Product:** Update product details seamlessly from the update product button. -->
+  - **Update Product:** Update product details seamlessly from the update product button.
 
 
 
