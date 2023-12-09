@@ -19,6 +19,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkminhaj&layout=compact&theme=midnight-purple)
 ## 🚀 Projects
 
 ### [Project 1 Name](Link to Project 1)
@@ -41,10 +42,8 @@ I am currently exploring [Technology/Topic] to enhance my skill set and stay upd
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jkminhaj&show_icons=true&count_private=true&hide=contribs,issues&theme=midnight-purple" alt="GitHub Stats" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkminhaj&layout=compact&theme=midnight-purple" alt="Top Languages" width="45%">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkminhaj&show_icons=true&count_private=true&hide=contribs,issues&theme=midnight-purple)
+
 
 ## 📊 Weekly Coding Activity
 
