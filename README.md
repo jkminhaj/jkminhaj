@@ -22,7 +22,7 @@
 
 
 
-### As a React developer, I strive to craft seamless and innovative digital experiences that elevate user interactions. Committed to staying at the forefront of React development, I aim to contribute to the evolution of web applications with efficiency and delight.
+### I specialize in frontend development, demonstrating mastery in HTML, CSS, and React. Complementing this expertise, I am adept in the MERN stack, providing a professional edge to crafting polished and dynamic web solutions .
 
 
 
