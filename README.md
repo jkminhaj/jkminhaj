@@ -2,7 +2,7 @@
 
 # Minhajul Islam
 
-I'm a passionate React developer with a flair for creating dynamic and user-friendly web applications. Welcome to my coding journey! 🚀
+I'm a passionate React developer with a flair for creating dynamic and user-friendly web applications.
 
 ## 🛠️ Tech Stack
 
