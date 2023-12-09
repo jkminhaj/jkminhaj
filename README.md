@@ -41,7 +41,7 @@ I am currently exploring [Technology/Topic] to enhance my skill set and stay upd
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkminhaj&show_icons=true&count_private=true&hide=contribs,issues&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkminhaj&show_icons=true&count_private=true&hide=contribs,issues&theme=midnight-purple&card_width=1000)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkminhaj&layout=compact&theme=midnight-purple)
 
