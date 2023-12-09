@@ -62,4 +62,7 @@ I am currently exploring [Technology/Topic] to enhance my skill set and stay upd
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](Link to Twitter)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](Link to Your Portfolio)
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jkminhaj&theme=midnight-purple&hide_border=true&card_width=800&hide_longest_streak=true)](https://git.io/streak-stats)
+
 Feel free to reach out if you have any questions or just want to chat about technology! 😊
