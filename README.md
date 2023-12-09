@@ -70,7 +70,6 @@ A web app for managing health services.
   - **Design:** Figma
   - **Version Control:** Git & GitHub
   - **Hosting:** Firebase
-
   </div>
   <div style="flex: 1; display: flex; flex-wrap: wrap; justify-content: center;">
     <a href="https://skillicons.dev">
@@ -78,6 +77,7 @@ A web app for managing health services.
     </a>
   </div>
 </div>
+
 
 ## 📈 GitHub Stats
 
