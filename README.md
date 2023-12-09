@@ -88,12 +88,7 @@ A web app for managing health services.
 
 
 
-
-
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jkminhaj&theme=midnight-purple&hide_border=true&border_radius=5&card_width=1000)](https://git.io/streak-stats)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jkminhaj/job-client)
 
 
 
