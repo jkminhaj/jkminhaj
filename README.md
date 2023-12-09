@@ -60,8 +60,21 @@ A web app for managing health services.
 - **Dynamic Title:** Website title changes dynamically based on the route.
 
 
+# Tech Land E-commerce Platform 
 
-## Favorite Tools
+### Live link : https://tech-land-c2d63.web.app
+
+### Project Features:
+
+- **Authentication:** Implemented secure authentication with Firebase.
+- **Database Integration:** Connected MongoDB for dynamic product data.
+- **Product Management:**
+  - **Add Product:** Easily add new products with the Add Product page.
+  - **Update Product:** Update product details seamlessly from the update product button.
+
+
+
+## Favourite Tools
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1;">
