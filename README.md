@@ -24,8 +24,9 @@
 
 # Projects
 
-## Health Service Platform 🏥
+## Health Service Platform 
 
+### Live link : https://doctor-12-fd0e1.web.app
 A web app for managing health services.
 
 ### Tech Stack:
@@ -41,7 +42,9 @@ A web app for managing health services.
 - General: Pagination, Database Connectivity, Error Handling
 
 
-## JobSeeker Website 🚀
+## JobSeeker Website 
+
+### Live link : https://job2324-7cf51.web.app
 
 ### Features:
 - **Job Listings:** Explore categorized jobs with detailed information.
