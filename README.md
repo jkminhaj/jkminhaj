@@ -32,7 +32,7 @@ I am currently exploring [Technology/Topic] to enhance my skill set and stay upd
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkminhaj&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
 
 ## 📫 Let's Connect
 
