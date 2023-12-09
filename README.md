@@ -66,14 +66,14 @@ I am currently exploring [Technology/Topic] to enhance my skill set and stay upd
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jkminhaj&theme=midnight-purple&hide_border=true&card_width=800&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jkminhaj/your-repository)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jkminhaj/job-client)
 
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Typing Animation">
     </a>
     <br>
-    ![GitHub last commit](https://img.shields.io/github/last-commit/jkminhaj/your-repository)
+    ![GitHub last commit](https://img.shields.io/github/last-commit/jkminhaj/job-client)
 </div>
 
 
