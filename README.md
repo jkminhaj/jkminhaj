@@ -73,7 +73,7 @@ I am currently exploring [Technology/Topic] to enhance my skill set and stay upd
         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Typing Animation">
     </a>
     <br>
-    ![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repository)
+    ![GitHub last commit](https://img.shields.io/github/last-commit/jkminhaj/your-repository)
 </div>
 
 
