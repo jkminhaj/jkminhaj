@@ -2,9 +2,7 @@
 
 # 👋 Hello, I'm MINHAJUL ISLAM
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=25&pause=1000&color=7C35CD&center=true&random=false&width=435&lines=I'm+Minhaj;React+Developer;Frontend+Developer;Mern+Stack+DEveloper)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Stack
 
