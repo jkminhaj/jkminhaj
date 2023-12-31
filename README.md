@@ -26,24 +26,6 @@
 
 # Projects
 
-## Health Service Platform 
-
-### Live link : https://doctor-12-fd0e1.web.app
-A web app for managing health services.
-
-### Tech Stack:
-- **Frontend:** React.js, Axios, SweetAlert2
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose
-
-### Key Features:
-- User Registration and Profile Update
-- Banner Management: Add, View, Activate
-- Test Management: Add, View, Update
-- Reservation Management: Book, View, Cancel
-- Recommendation Management: View
-- General: Pagination, Database Connectivity, Error Handling
-
-
 ## JobSeeker Website 
 
 ### Live link : https://job2324-7cf51.web.app
