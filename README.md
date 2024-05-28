@@ -19,7 +19,6 @@
 ### I specialize in frontend development, demonstrating mastery in HTML, CSS, and React. Complementing this expertise, I am adept in the MERN stack, providing a professional edge to crafting polished and dynamic web solutions .
 
 
-
 # Projects
 
 ## JobSeeker Website 
