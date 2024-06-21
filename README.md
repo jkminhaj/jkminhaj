@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=37&pause=1000&color=7C35CD&center=true&vCenter=true&random=false&width=435&lines=I'm+Minhaj;I'm+React+Developer;Frontend+Developer;Mern+Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
-
 ## 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
