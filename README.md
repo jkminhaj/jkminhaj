@@ -20,39 +20,6 @@
 ### I specialize in frontend development, demonstrating mastery in HTML, CSS, and React. Complementing this expertise, I am adept in the MERN stack, providing a professional edge to crafting polished and dynamic web solutions .
 
 
-# Projects
-
-## JobSeeker Website 
-
-### Live link : https://job2324-7cf51.web.app
-
-### Features:
-- **Job Listings:** Explore categorized jobs with detailed information.
-- **User Management:** Simple login and registration system.
-- **User-Specific Pages:** My Jobs and Applied Jobs for personalized experience.
-
-### Tech Stack:
-- **Frontend:** React.js, Axios, React Router
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose
-
-### Extra Features:
-- **Integration:** [EmailJs/React-to-Pdf] 
-- **Dynamic Title:** Website title changes dynamically based on the route.
-
-
-# Tech Land E-commerce Platform 
-
-### Live link : https://tech-land-c2d63.web.app
-
-### Project Features:
-
-- **Authentication:** Implemented secure authentication with Firebase.
-- **Database Integration:** Connected MongoDB for dynamic product data.
-- **Product Management:**
-  - **Add Product:** Easily add new products with the Add Product page.
-  - **Update Product:** Update product details seamlessly from the update product button.
-
-
 
 ## Favourite Tools
 
