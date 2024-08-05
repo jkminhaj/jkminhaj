@@ -1,5 +1,5 @@
-
 <img src='./assets/header.png'>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=37&pause=1000&color=7C35CD&center=true&vCenter=true&random=false&width=435&lines=I'm+Minhaj;I'm+React+Developer;Frontend+Developer;Mern+Stack+Developer" alt="Typing SVG" />
