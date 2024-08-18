@@ -23,24 +23,6 @@
 
 
 
-## Favourite Tools
-
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1;">
-
-  - **IDE:** Visual Studio Code
-  - **Design:** Figma
-  - **Version Control:** Git & GitHub
-  - **Hosting:** Firebase
-  </div>
-  <div style="flex: 1; display: flex; flex-wrap: wrap; justify-content: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,figma,git,firebase" />
-    </a>
-  </div>
-</div>
-
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkminhaj&show_icons=true&count_private=true&hide=contribs,issues&theme=midnight-purple)
