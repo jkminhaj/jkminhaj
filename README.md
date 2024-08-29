@@ -9,9 +9,9 @@
 
 
 
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+## ️ Tech Stack
+
+**JavaScript** &nbsp; **Node.js**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextjs&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-4285F4?style=flat&logo=mongoose&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
@@ -26,7 +26,7 @@
 
 
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkminhaj&show_icons=true&count_private=true&hide=contribs,issues&theme=midnight-purple)
 
@@ -39,4 +39,4 @@
 
 
 
-Feel free to reach out if you have any questions or just want to chat about technology! 😊
+Feel free to reach out if you have any questions or just want to chat about technology!
