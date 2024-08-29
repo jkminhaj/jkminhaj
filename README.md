@@ -8,7 +8,7 @@
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextjs&logoColor=white)
@@ -25,7 +25,7 @@
 
 
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkminhaj&show_icons=true&count_private=true&hide=contribs,issues&theme=midnight-purple)
 
