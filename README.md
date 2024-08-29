@@ -35,7 +35,3 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jkminhaj&theme=midnight-purple&hide_border=true&border_radius=5&card_width=1000)](https://git.io/streak-stats)
-
-
-
-Feel free to reach out if you have any questions or just want to chat about technology! 😊
