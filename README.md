@@ -3,6 +3,7 @@
 <div align="center" style="border: none; margin: 0; padding: 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=37&pause=1000&color=7C35CD&center=true&vCenter=true&random=false&width=435&lines=I'm+Minhaj;I'm+React+Developer;Frontend+Developer;Mern+Stack+Developer" alt="Typing SVG" style="border: none; margin: 0; padding: 0;" />
 </div>
+
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
