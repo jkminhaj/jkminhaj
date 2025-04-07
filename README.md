@@ -6,8 +6,6 @@
 
 
 
-https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg
-
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
