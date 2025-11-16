@@ -15,7 +15,7 @@
 
 
 
-### I specialize in frontend development, demonstrating mastery in HTML, CSS, and React. Complementing this expertise, I am adept in the MERN stack, providing a professional edge to crafting polished and dynamic web solutions .
+### Aspiring Software Engineer | I develop web applications using React, and work with backend technologies and databases to build complete, functional solutions. I focus on creating efficient and reliable applications while continuously learning and improving my craft.
 
 ## Tools & Services
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
