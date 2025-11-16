@@ -38,7 +38,4 @@
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkminhaj&layout=donut&langs_count=8&theme=midnight-purple&custom_title=Most%20Used%20Languages)
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jkminhaj&theme=midnight-purple&hide_border=true&border_radius=5&card_width=1000)](https://git.io/streak-stats)
