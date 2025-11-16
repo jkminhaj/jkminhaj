@@ -38,11 +38,4 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkminhaj&show_icons=true&count_private=true&hide=contribs,issues&theme=midnight-purple)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkminhaj&layout=compact&theme=midnight-purple)
-
-
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jkminhaj&theme=midnight-purple&hide_border=true&border_radius=5&card_width=1000)](https://git.io/streak-stats)
