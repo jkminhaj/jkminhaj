@@ -15,7 +15,7 @@
 
 
 
-###I architect and implement web applications leveraging React alongside backend technologies and databases to deliver robust, end-to-end solutions. I emphasize building scalable, maintainable, and efficient systems while continuously enhancing my technical expertise and embracing emerging technologies.
+### I architect and implement web applications leveraging React alongside backend technologies and databases to deliver robust, end-to-end solutions. I emphasize building scalable, maintainable, and efficient systems while continuously enhancing my technical expertise and embracing emerging technologies.
 
 ## Tools & Services
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
